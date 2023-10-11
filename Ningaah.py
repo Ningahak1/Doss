@@ -20,11 +20,6 @@ os.system("clear")
 print ('\033[1;31m')
 os.system("figlet N I N G A ")
 print ('\033[1;32m')
-print "insta    : https://instagram.com/name__dark "
-print "github   : https://github.com/MR-DARK54"
-print "telegram : https://t.me/name_dark "
-print
-print "========================================"
 print ('\033[1;33m')
 ip = raw_input(" Entr the ip  : ")
 port = input(" Entr the port : ")
