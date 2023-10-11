@@ -7,7 +7,7 @@ Doos attack
 
 install
 
-git clone https://github.com/Ningahak1/Ninga
+git clone https://github.com/Ningahak1/Doss
 
 cd Ninga
 
