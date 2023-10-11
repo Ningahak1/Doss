@@ -9,7 +9,7 @@ install
 
 git clone https://github.com/Ningahak1/Doss
 
-cd Ninga
+cd Doss
 
 chmod +x *
 
