@@ -26,7 +26,7 @@ port = input(" Entr the port : ")
 os.system("clear")
 print ('\033[1;35m')
 os.system("figlet A t t a c k")
-print "[                    ] 0% "
+print "[                    ] 0%"
 time.sleep(2)
 print "[=====               ] 25%"
 time.sleep(2)
